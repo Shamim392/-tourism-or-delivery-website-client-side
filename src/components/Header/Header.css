@@ -1,0 +1,21 @@
+.navbar-brand {
+  display: flex;
+  align-items: center;
+  padding: 5px;
+}
+
+.navbar-brand img {
+  margin-right: 10px;
+}
+
+.user-header {
+  background-color: #f8f9fa;
+}
+.custom-link a {
+  text-decoration: none;
+}
+.user-image {
+  height: 40%;
+  width: 10%;
+  border-radius: 50%;
+}
